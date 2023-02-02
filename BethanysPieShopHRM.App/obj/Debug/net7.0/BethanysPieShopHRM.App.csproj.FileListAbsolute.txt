@@ -812,8 +812,6 @@ C:\Users\leobo\OneDrive\Área de Trabalho\Estudos\.net_estudos\BethanysPieShopHR
 C:\Users\leobo\OneDrive\Área de Trabalho\Estudos\.net_estudos\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net7.0\build-gz\gOQI1Ufq.gz
 C:\Users\leobo\OneDrive\Área de Trabalho\Estudos\.net_estudos\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net7.0\build-gz\o+mlWwT1.gz
 C:\Users\leobo\OneDrive\Área de Trabalho\Estudos\.net_estudos\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net7.0\build-gz\hvvKWQay.gz
-C:\Users\leobo\OneDrive\Área de Trabalho\Estudos\.net_estudos\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net7.0\build-gz\+tpn9VdP.gz
-C:\Users\leobo\OneDrive\Área de Trabalho\Estudos\.net_estudos\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net7.0\build-gz\ieJy+G+l.gz
 C:\Users\leobo\OneDrive\Área de Trabalho\Estudos\.net_estudos\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net7.0\build-gz\cUIyoeGJ.gz
 C:\Users\leobo\OneDrive\Área de Trabalho\Estudos\.net_estudos\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net7.0\build-gz\R1sa3ivz.gz
 C:\Users\leobo\OneDrive\Área de Trabalho\Estudos\.net_estudos\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net7.0\build-gz\bto8xY7U.gz
@@ -835,3 +833,5 @@ C:\Users\leobo\OneDrive\Área de Trabalho\Estudos\.net_estudos\BethanysPieShopHR
 C:\Users\leobo\OneDrive\Área de Trabalho\Estudos\.net_estudos\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net7.0\BethanysPieShopHRM.App.pdb
 C:\Users\leobo\OneDrive\Área de Trabalho\Estudos\.net_estudos\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net7.0\ref\BethanysPieShopHRM.App.dll
 C:\Users\leobo\OneDrive\Área de Trabalho\Estudos\.net_estudos\BethanysPieShopHRM.App\BethanysPieShopHRM.App\bin\Debug\net7.0\libman.json
+C:\Users\leobo\OneDrive\Área de Trabalho\Estudos\.net_estudos\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net7.0\build-gz\O3eKqTG0.gz
+C:\Users\leobo\OneDrive\Área de Trabalho\Estudos\.net_estudos\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net7.0\build-gz\3nZntvfg.gz

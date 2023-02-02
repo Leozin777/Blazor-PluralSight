@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EdOgxRBokGZwz5JZfraulc0i5dhuqI+OaH7w5dIl1Y8=",
+  "Hash": "nqGHZa9DmeBa+cxQltroYlkZGdMLk88r8FZZWlof2HI=",
   "Source": "BethanysPieShopHRM.App",
   "BasePath": "/",
   "Mode": "Root",
@@ -65,7 +65,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\PluralSightBlazor\\BethanysPieShopHRM.Shared\\bin\\Debug\\net6.0\\BethanysPieShopHRM.Shared.dll"
+      "OriginalItemSpec": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\PluralSightBlazor\\BethanysPieShopHRM.Shared\\bin\\Debug\\net7.0\\BethanysPieShopHRM.Shared.dll"
     },
     {
       "Identity": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BethanysPieShopHRM.Shared.pdb",
@@ -82,7 +82,7 @@
       "AssetTraitValue": "symbol",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\PluralSightBlazor\\BethanysPieShopHRM.Shared\\bin\\Debug\\net6.0\\BethanysPieShopHRM.Shared.pdb"
+      "OriginalItemSpec": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\PluralSightBlazor\\BethanysPieShopHRM.Shared\\bin\\Debug\\net7.0\\BethanysPieShopHRM.Shared.pdb"
     },
     {
       "Identity": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.boot.json",
@@ -3638,23 +3638,6 @@
       "OriginalItemSpec": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.dll"
     },
     {
-      "Identity": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\obj\\Debug\\net7.0\\build-gz\\+tpn9VdP.gz",
-      "SourceId": "BethanysPieShopHRM.App",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/BethanysPieShopHRM.Shared.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BethanysPieShopHRM.Shared.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BethanysPieShopHRM.Shared.dll"
-    },
-    {
       "Identity": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\obj\\Debug\\net7.0\\build-gz\\+uqpqByy.gz",
       "SourceId": "BethanysPieShopHRM.App",
       "SourceType": "Computed",
@@ -3908,6 +3891,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\bin\\Debug\\net7.0\\wwwroot\\_framework\\netstandard.dll"
+    },
+    {
+      "Identity": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\obj\\Debug\\net7.0\\build-gz\\3nZntvfg.gz",
+      "SourceId": "BethanysPieShopHRM.App",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/BethanysPieShopHRM.Shared.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BethanysPieShopHRM.Shared.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BethanysPieShopHRM.Shared.pdb"
     },
     {
       "Identity": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\obj\\Debug\\net7.0\\build-gz\\3OUERsMA.gz",
@@ -5168,23 +5168,6 @@
       "OriginalItemSpec": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Dynamic.Runtime.dll"
     },
     {
-      "Identity": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\obj\\Debug\\net7.0\\build-gz\\ieJy+G+l.gz",
-      "SourceId": "BethanysPieShopHRM.App",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/BethanysPieShopHRM.Shared.pdb.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BethanysPieShopHRM.Shared.pdb",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BethanysPieShopHRM.Shared.pdb"
-    },
-    {
       "Identity": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\obj\\Debug\\net7.0\\build-gz\\IIjuO90R.gz",
       "SourceId": "BethanysPieShopHRM.App",
       "SourceType": "Computed",
@@ -5863,6 +5846,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\bin\\Debug\\net7.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
+    },
+    {
+      "Identity": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\obj\\Debug\\net7.0\\build-gz\\O3eKqTG0.gz",
+      "SourceId": "BethanysPieShopHRM.App",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/BethanysPieShopHRM.Shared.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BethanysPieShopHRM.Shared.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BethanysPieShopHRM.Shared.dll"
     },
     {
       "Identity": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\obj\\Debug\\net7.0\\build-gz\\oilBf9GE.gz",
