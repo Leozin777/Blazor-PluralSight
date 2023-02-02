@@ -1,0 +1,49 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BethanysPieShopHRM.App
+build_property.RootNamespace = BethanysPieShopHRM.App
+build_property.ProjectDir = C:\Users\leobo\OneDrive\Área de Trabalho\Estudos\.net_estudos\BethanysPieShopHRM.App\BethanysPieShopHRM.App\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\leobo\OneDrive\Área de Trabalho\Estudos\.net_estudos\BethanysPieShopHRM.App\BethanysPieShopHRM.App
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/leobo/OneDrive/Área de Trabalho/Estudos/.net_estudos/BethanysPieShopHRM.App/BethanysPieShopHRM.App/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leobo/OneDrive/Área de Trabalho/Estudos/.net_estudos/BethanysPieShopHRM.App/BethanysPieShopHRM.App/Components/EmployeeCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFbXBsb3llZUNhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leobo/OneDrive/Área de Trabalho/Estudos/.net_estudos/BethanysPieShopHRM.App/BethanysPieShopHRM.App/Pages/EmployeeOverview.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVPdmVydmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leobo/OneDrive/Área de Trabalho/Estudos/.net_estudos/BethanysPieShopHRM.App/BethanysPieShopHRM.App/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leobo/OneDrive/Área de Trabalho/Estudos/.net_estudos/BethanysPieShopHRM.App/BethanysPieShopHRM.App/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leobo/OneDrive/Área de Trabalho/Estudos/.net_estudos/BethanysPieShopHRM.App/BethanysPieShopHRM.App/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/leobo/OneDrive/Área de Trabalho/Estudos/.net_estudos/BethanysPieShopHRM.App/BethanysPieShopHRM.App/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-5mb71cu944
+
+[C:/Users/leobo/OneDrive/Área de Trabalho/Estudos/.net_estudos/BethanysPieShopHRM.App/BethanysPieShopHRM.App/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-thcm2l9sr1
