@@ -7,5 +7,9 @@ namespace BethanysPieShopHRM.App.Components
     {
         [Parameter]
         public Employee Employee { get; set; } = default!;
+
+        [Parameter]
+        public EventCallback<Employee> EmployeeQuickViewClicked { get; set; }
+        
     }
 }
