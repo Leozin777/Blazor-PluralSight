@@ -10,6 +10,13 @@ namespace BethanysPieShopHRM.App.Components
 
         [Parameter]
         public EventCallback<Employee> EmployeeQuickViewClicked { get; set; }
+
+        [Inject]
+        public NavigationManager NavigationManager { get; set; }
         
+        public void NavigateToDetails(Employee selectedEmployee)
+        {
+            NavigationManager.NavigateTo($"/employeedetail/{selectedEmployee.EmployeeId}");
+        }
     }
 }

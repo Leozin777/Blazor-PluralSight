@@ -8,6 +8,12 @@
                 <img src="@($"https://gillcleerenpluralsight.blob.core.windows.net/person/{Employee.EmployeeId}.jpg")" class="employee-card" />
             </div>
             <button class="btn btn-primary btn-sm mb-1" @onclick="@(async () => await EmployeeQuickViewClicked.InvokeAsync(Employee))"> Quick view</button>
+            @*<a href="@($"employeedetail/{Employee.EmployeeId}")" class="btn btn-outline-primary">
+                Full Details
+            </a>*@
+            <button class="btn btn-outline-primary btn-sm mb-1" @onclick="(() => NavigateToDetails(Employee))">
+                Full Details
+            </button>
         </div>
     </div>
 </div>
