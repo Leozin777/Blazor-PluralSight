@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DsXTMuGkjvQSWJPysxsN6acQCStPivVOcOIXBLrnwer94355AHkzElOUcmk/lQuMVXbmocNpj7y27LfiO+NZFA==",
+  "dgSpecHash": "PbXJxHjAnijSZoBrvTByLBm3LaeRxh3HtVMIlqckHYGQipKbdW+icAhkiSicaCtmDFapzFc3lXGK14H9+juAEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\PluralSightBlazor\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj",
+  "projectFilePath": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

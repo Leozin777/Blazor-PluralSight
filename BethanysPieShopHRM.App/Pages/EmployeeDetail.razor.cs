@@ -1,4 +1,4 @@
-﻿using BethanysPieShopHRM.App.Models;
+﻿using BethanysPieShopHRM.App.Services;
 using BethanysPieShopHRM.Shared.Domain;
 using Microsoft.AspNetCore.Components;
 
@@ -6,23 +6,18 @@ namespace BethanysPieShopHRM.App.Pages
 {
     public partial class EmployeeDetail
     {
+
         [Parameter]
         public string EmployeeId { get; set; }
-
-        public Employee? Employee { get; set; }
-
-        protected override Task OnInitializedAsync()
-        {
-            Employee = MockDataService.Employees.FirstOrDefault(e => e.EmployeeId == int.Parse(EmployeeId));
-            return base.OnInitializedAsync();
-        }
+        public Employee Employee { get; set; } = new Employee();
 
         [Inject]
-        public NavigationManager NavigationManager { get; set; } = default!;
+        public IEmployeeDataService? EmployeeDataService { get; set; }
 
-        public void NavigateToDetails(Employee selectedEmployee)
+        protected async override Task OnInitializedAsync()
         {
-            NavigationManager.NavigateTo($"/employeedetail/{selectedEmployee.EmployeeId}");
+            Employee = await EmployeeDataService.GetEmployeeDetails(int.Parse(EmployeeId));
+
         }
     }
 }
