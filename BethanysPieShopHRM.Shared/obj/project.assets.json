@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj",
       "projectName": "BethanysPieShopHRM.Shared",
-      "projectPath": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj",
+      "projectPath": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj",
       "packagesPath": "C:\\Users\\leobo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Shared\\obj\\",
+      "outputPath": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leobo\\AppData\\Roaming\\NuGet\\NuGet.Config",

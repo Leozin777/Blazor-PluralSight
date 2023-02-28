@@ -1,5 +1,4 @@
-﻿using BethanysPieShopHRM.App.State;
-using Microsoft.AspNetCore.Components;
+﻿using Microsoft.AspNetCore.Components;
 
 namespace BethanysPieShopHRM.App.Components.Widgets
 {

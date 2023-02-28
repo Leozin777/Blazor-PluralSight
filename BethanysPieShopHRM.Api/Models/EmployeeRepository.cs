@@ -5,7 +5,6 @@ namespace BethanysPieShopHRM.Api.Models
     public class EmployeeRepository : IEmployeeRepository
     {
         private readonly AppDbContext _appDbContext;
-        private Random random = new Random();
 
         public EmployeeRepository(AppDbContext appDbContext)
         {

@@ -5,15 +5,15 @@ namespace BethanysPieShopHRM.App.Components
 {
     public partial class QuickViewPopup
     {
-        private Employee? _employee;
-
         [Parameter]
         public Employee? Employee { get; set; }
+
+        private Employee? _employee;
 
         protected override void OnParametersSet()
         {
             _employee = Employee;
-         
+
         }
 
         public void Close()

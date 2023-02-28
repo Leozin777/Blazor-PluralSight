@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj": {}
+    "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj": {
+    "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj",
+        "projectUniqueName": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj",
         "projectName": "BethanysPieShopHRM.App",
-        "projectPath": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj",
+        "projectPath": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj",
         "packagesPath": "C:\\Users\\leobo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\obj\\",
+        "outputPath": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leobo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj": {
-                "projectPath": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj"
+              "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.ComponentsLibrary\\BethanysPieShopHRM.ComponentsLibrary.csproj": {
+                "projectPath": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.ComponentsLibrary\\BethanysPieShopHRM.ComponentsLibrary.csproj"
+              },
+              "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj": {
+                "projectPath": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj"
               }
             }
           }
@@ -49,6 +52,10 @@
               "version": "[4.2.0, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Authentication": {
               "target": "Package",
               "version": "[6.0.8, )"
             },
@@ -93,14 +100,79 @@
         }
       }
     },
-    "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj": {
+    "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.ComponentsLibrary\\BethanysPieShopHRM.ComponentsLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj",
-        "projectName": "BethanysPieShopHRM.Shared",
-        "projectPath": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.ComponentsLibrary\\BethanysPieShopHRM.ComponentsLibrary.csproj",
+        "projectName": "BethanysPieShopHRM.ComponentsLibrary",
+        "projectPath": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.ComponentsLibrary\\BethanysPieShopHRM.ComponentsLibrary.csproj",
         "packagesPath": "C:\\Users\\leobo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\Estudos\\.net_estudos\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Shared\\obj\\",
+        "outputPath": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.ComponentsLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leobo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj": {
+                "projectPath": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj",
+        "projectName": "BethanysPieShopHRM.Shared",
+        "projectPath": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj",
+        "packagesPath": "C:\\Users\\leobo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leobo\\OneDrive\\Área de Trabalho\\BethanysPieShopHRM.App2\\BethanysPieShopHRM.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leobo\\AppData\\Roaming\\NuGet\\NuGet.Config",

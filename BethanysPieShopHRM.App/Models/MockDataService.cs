@@ -8,7 +8,7 @@ namespace BethanysPieShopHRM.App.Models
         private static List<JobCategory> _jobCategories = default!;
         private static List<Country> _countries = default!;
 
-        public static List<Employee>? Employees
+        public static List<Employee> Employees
         {
             get
             {
@@ -57,7 +57,7 @@ namespace BethanysPieShopHRM.App.Models
                 EmployeeId = 2,
                 FirstName = "Gill",
                 LastName = "Cleeren",
-                Gender = Gender.Female,
+                Gender = Gender.Male,
                 PhoneNumber = "33999909923",
                 Smoker = false,
                 Street = "New Street",

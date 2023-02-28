@@ -6,5 +6,6 @@ namespace BethanysPieShopHRM.App.Pages
     {
         public List<Type> Widgets { get; set; } = new List<Type>() { typeof(EmployeeCountWidget), typeof(InboxWidget) };
 
+
     }
 }

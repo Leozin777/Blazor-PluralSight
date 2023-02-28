@@ -1,7 +1,6 @@
 ﻿using BethanysPieShopHRM.Api.Models;
 using Microsoft.AspNetCore.Mvc;
 
-
 namespace BethanysPieShopHRM.Api.Controllers
 {
     [Route("api/[controller]")]

@@ -8,19 +8,16 @@ namespace BethanysPieShopHRM.App.Pages
     public partial class EmployeeEdit
     {
         [Inject]
-        public IEmployeeDataService? EmployeeDataService { get; set; } 
-
+        public IEmployeeDataService? EmployeeDataService { get; set; }
+        
         [Inject]
         public ICountryDataService? CountryDataService { get; set; }
-
+        
         [Inject]
         public IJobCategoryDataService? JobCategoryDataService { get; set; }
 
-
         [Inject]
         public NavigationManager NavigationManager { get; set; }
-
-
 
         [Parameter]
         public string? EmployeeId { get; set; }
@@ -33,9 +30,8 @@ namespace BethanysPieShopHRM.App.Pages
         protected string StatusClass = string.Empty;
         protected bool Saved;
 
-        private IBrowserFile selectedFile;
 
-        protected override async Task OnInitializedAsync()
+        protected async override Task OnInitializedAsync()
         {
             Saved = false;
             Countries = (await CountryDataService.GetAllCountries()).ToList();
@@ -54,12 +50,6 @@ namespace BethanysPieShopHRM.App.Pages
             }
         }
 
-        private void OnInputFileChange(InputFileChangeEventArgs e)
-        {
-            selectedFile = e.File;
-            StateHasChanged();
-        }
-
         protected async Task HandleValidSubmit()
         {
             Saved = false;
@@ -67,7 +57,7 @@ namespace BethanysPieShopHRM.App.Pages
             if (Employee.EmployeeId == 0) //new
             {
                 //image adding
-                if (selectedFile != null)//take first image
+                if (selectedFile != null)
                 {
                     var file = selectedFile;
                     Stream stream = file.OpenReadStream();
@@ -102,6 +92,14 @@ namespace BethanysPieShopHRM.App.Pages
             }
         }
 
+        private IBrowserFile selectedFile;
+
+        private void OnInputFileChange(InputFileChangeEventArgs e)
+        {
+            selectedFile = e.File;
+            StateHasChanged();
+        }
+
         protected async Task HandleInvalidSubmit()
         {
             StatusClass = "alert-danger";
@@ -122,6 +120,5 @@ namespace BethanysPieShopHRM.App.Pages
         {
             NavigationManager.NavigateTo("/employeeoverview");
         }
-
     }
 }

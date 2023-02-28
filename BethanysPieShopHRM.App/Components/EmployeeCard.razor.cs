@@ -12,7 +12,7 @@ namespace BethanysPieShopHRM.App.Components
         public EventCallback<Employee> EmployeeQuickViewClicked { get; set; }
 
         [Inject]
-        public NavigationManager NavigationManager { get; set; }
+        public NavigationManager NavigationManager { get; set; } = default!;
 
         protected override void OnInitialized()
         {
@@ -24,9 +24,9 @@ namespace BethanysPieShopHRM.App.Components
 
         public void NavigateToDetails(Employee selectedEmployee)
         {
+            //we can write code here
 
             NavigationManager.NavigateTo($"/employeedetail/{selectedEmployee.EmployeeId}");
-
         }
     }
 }
